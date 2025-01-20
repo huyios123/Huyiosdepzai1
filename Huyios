@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Tuyenhuu1122/Kimp123/refs/heads/main/Kimp123')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/huyios123/Huyiosdepzai1/refs/heads/main/Huyios')))()
 
 local Window = OrionLib:MakeWindow({Name = "Huy ios", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
