@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/huyios123/Huyiosdepzai1/refs/heads/main/Skibidi')))()
+local OrionLib = loadstring(game:HttpGet(('https://github.com/huyios123/Huyiosdepzai1/blob/main/Skibidi')))()
 
 local Window = OrionLib:MakeWindow({Name = "Phúc ios", HidePremium = false, SaveConfig = true, ConfigFolder = "dxl_bf"})
 
